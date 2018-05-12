@@ -1,0 +1,27 @@
+_repo: Guernsey-Pictorial-Directory-and-Stranger-s-GuideEmbellished-with-Numerous-Wood-cuts_40092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Thomas, of Guernsey
+    gutenberg_agent_id: '40406'
+    url: http://www.gutenberg.org/2009/agents/40406
+description: ''
+gutenberg_issued: '2012-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40092'
+  lccn: 03008055
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guernsey (Channel Islands) -- Guidebooks'
+- !lcc 'DA'
+title: 'Guernsey Pictorial Directory and Stranger''s Guide
+
+  Embellished with Numerous Wood-cuts'
+url: http://www.gutenberg.org/ebooks/40092
