@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40406'
     url: http://www.gutenberg.org/2009/agents/40406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40092#Guernsey-Pictorial-Directory-and-Stranger-s-GuideEmbellished-with-Numerous-Wood-cuts
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
 identifiers:
